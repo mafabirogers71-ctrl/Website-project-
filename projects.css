@@ -1,0 +1,60 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 30px;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+	text-align: center;
+}
+
+h3 {
+    color: navy;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+    margin: 5px;
+}
+
+a:hover {
+    color: red;
+}
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th {
+    background-color: navy;
+    color: white;
+    padding: 15px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 15px;
+    vertical-align: top;
+}
+
+img {
+    width: 250px;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+hr {
+    border: 1px solid navy;
+}

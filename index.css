@@ -1,0 +1,54 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 30px;
+}
+
+a:hover {
+    background-color: navy;
+    color: white;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+.profile-image {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    object-fit: cover;
+    border: none;
+}
+
+h2 {
+    color: darkblue;
+	text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+    margin: 5px;
+	display: inline-block;
+    border: 2px solid navy;
+    border-radius: 8px;
+    padding: 8px 15px;
+    margin: 5px;
+    color: navy;
+    text-decoration: none;
+    background-color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+hr {
+    border: 1px solid navy;
+}

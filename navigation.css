@@ -1,0 +1,19 @@
+a:hover {
+    background-color: navy;
+    color: white;
+}
+a {
+    display: inline-block;
+    border: 2px solid navy;
+    border-radius: 8px;
+    padding: 8px 15px;
+    margin: 5px;
+    color: navy;
+    text-decoration: none;
+    background-color: white;
+}
+
+a:hover {
+    background-color: navy;
+    color: white;
+}

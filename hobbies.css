@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 30px;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+}
+
+li {
+    font-size: 18px;
+    margin: 10px;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+    margin: 5px;
+}
+
+a:hover {
+    color: red;
+}
+
+hr {
+    border: 1px solid navy;
+}

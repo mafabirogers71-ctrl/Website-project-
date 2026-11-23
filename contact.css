@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 30px;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+	text-align: center;
+}
+
+h2 {
+    color: darkblue;
+	text-align: center;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+    margin: 5px;
+}
+
+a:hover {
+    color: red;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th {
+    background-color: navy;
+    color: white;
+    padding: 12px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+img {
+    width: 70px;
+}
+
+hr {
+    border: 1px solid navy;
+}
